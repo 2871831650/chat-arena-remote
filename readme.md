@@ -4,9 +4,9 @@
 
 Download [Node.js](https://nodejs.org/en/download/).
 
-Copy `.env.example`, rename it `.env`, complete it
+复制一份 `.env.example`,  修改为：`.env`, complete it，/很重要！！！
 
-Run this followed commands:
+运行命令:
 
 ``` bash
 # Install dependencies (only the first time)
